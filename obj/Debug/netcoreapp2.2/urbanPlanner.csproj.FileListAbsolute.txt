@@ -1,0 +1,11 @@
+C:\Users\milliyon\workspace\backend\csharp\urbanPlanner\bin\Debug\netcoreapp2.2\urbanPlanner.deps.json
+C:\Users\milliyon\workspace\backend\csharp\urbanPlanner\bin\Debug\netcoreapp2.2\urbanPlanner.runtimeconfig.json
+C:\Users\milliyon\workspace\backend\csharp\urbanPlanner\bin\Debug\netcoreapp2.2\urbanPlanner.runtimeconfig.dev.json
+C:\Users\milliyon\workspace\backend\csharp\urbanPlanner\bin\Debug\netcoreapp2.2\urbanPlanner.dll
+C:\Users\milliyon\workspace\backend\csharp\urbanPlanner\bin\Debug\netcoreapp2.2\urbanPlanner.pdb
+C:\Users\milliyon\workspace\backend\csharp\urbanPlanner\obj\Debug\netcoreapp2.2\urbanPlanner.csprojAssemblyReference.cache
+C:\Users\milliyon\workspace\backend\csharp\urbanPlanner\obj\Debug\netcoreapp2.2\urbanPlanner.csproj.CoreCompileInputs.cache
+C:\Users\milliyon\workspace\backend\csharp\urbanPlanner\obj\Debug\netcoreapp2.2\urbanPlanner.AssemblyInfoInputs.cache
+C:\Users\milliyon\workspace\backend\csharp\urbanPlanner\obj\Debug\netcoreapp2.2\urbanPlanner.AssemblyInfo.cs
+C:\Users\milliyon\workspace\backend\csharp\urbanPlanner\obj\Debug\netcoreapp2.2\urbanPlanner.dll
+C:\Users\milliyon\workspace\backend\csharp\urbanPlanner\obj\Debug\netcoreapp2.2\urbanPlanner.pdb
